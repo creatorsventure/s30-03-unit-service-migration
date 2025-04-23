@@ -1,0 +1,17 @@
+id,name,description,path,icon,icon_type,icon_theme,menu_type,root_menu_id,display_position,dashboard_count_card,status,created_by,modified_by,created_at,modified_at
+AUTO-MENU-001,dashboard,dashboard,dashboard,dashboard,nzIcon,outline,1,NA,1,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-002,governance,governance,,compass,nzIcon,outline,1,NA,2,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-003,organization,organization,governance/organization,bank,nzIcon,outline,2,AUTO-MENU-002,1,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-004,permission,permission,governance/permission,aim,nzIcon,outline,2,AUTO-MENU-002,2,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-005,menu,menu,governance/menu,menu,nzIcon,outline,2,AUTO-MENU-002,3,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-006,role,role,governance/role,flag,nzIcon,outline,2,AUTO-MENU-002,4,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-007,user,userdetail,governance/user,user,nzIcon,outline,2,AUTO-MENU-002,5,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-008,password,password,governance/password,key,nzIcon,outline,2,AUTO-MENU-002,6,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-009,configuration,configuration,,setting,nzIcon,outline,1,NA,3,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-010,scheme,scheme,configuration/scheme,pic-right,nzIcon,outline,2,AUTO-MENU-009,1,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-011,merchant-category,merchantcategory,configuration/merchant-category,appstore,nzIcon,outline,2,AUTO-MENU-009,2,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-012,engine,engine,configuration/engine,api,nzIcon,outline,2,AUTO-MENU-009,3,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-013,options,options,configuration/options,unordered-list,nzIcon,outline,2,AUTO-MENU-009,4,false,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-014,currency,currency,configuration/currency,dollar,nzIcon,outline,2,AUTO-MENU-009,5,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-015,action,action,configuration/action,fire,nzIcon,outline,2,AUTO-MENU-009,6,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-016,unit,unit,configuration/unit,bank,nzIcon,outline,2,AUTO-MENU-009,7,true,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP

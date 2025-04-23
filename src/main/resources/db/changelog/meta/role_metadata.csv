@@ -1,0 +1,2 @@
+id,name,description,status,created_by,modified_by,created_at,modified_at
+AUTO-ACCESS-001,UAM, Access role,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
