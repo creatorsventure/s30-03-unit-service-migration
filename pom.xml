@@ -35,7 +35,7 @@
         <javassist.version>3.24.0-GA</javassist.version>
         <jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
 
-        <unit-service-pojo-version>0.0.1-SNAPSHOT</unit-service-pojo-version>
+        <unit-service-pojo-version>0.0.39-SNAPSHOT</unit-service-pojo-version>
     </properties>
     <repositories>
         <repository>
